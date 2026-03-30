@@ -144,3 +144,13 @@ For any queries, feel free to reach out to the team.
 ---
 
 ⭐ *If you like this project, consider giving it a star!*
+
+# Garbage Detection ML Model
+
+This folder contains trained ML model files used for garbage detection.
+
+Models include:
+- PyTorch (.pt)
+- ONNX format
+
+Note: These models are for demonstration and academic purposes.
